@@ -144,15 +144,15 @@ const Navbar = () => {
         <div className='container mx-auto flex items-center space-x-10 py-5 lg:text-sm xl:text-lg'>
           <Link href='/'>
             <button className='z-10 inline cursor-pointer whitespace-nowrap text-2xl font-extrabold '>
-              NFT Explorer
+              LUV NFT ESTATE 🗺
             </button>
           </Link>
           <div className='flex items-center justify-start space-x-5'>
             <Link href='/marketplace'>
-              <button className='hover:text-secondary-100 cursor-pointer transition duration-200 '>Marketplace</button>
+              <button className='hover:text-secondary-100 cursor-pointer transition duration-200 '>MARKETPLACE</button>
             </Link>
             <Link href='/launchpad'>
-              <button className='hover:text-secondary-100 cursor-pointer transition duration-200 '>Launchpad</button>
+              <button className='hover:text-secondary-100 cursor-pointer transition duration-200 '>LAUNCHPAD</button>
             </Link>
             <CollectionsDropdown />
             <Select
