@@ -25,7 +25,7 @@ const Home = () => {
 
   return (
     <>
-      <Metadata title='NFT Explorer | Launchpad and Marketplace' />
+      <Metadata title='LUV NFT Estate | NFT Estate Marketplace' />
       <AnimatePresence>
         <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} className='relative'>
           <Upper />

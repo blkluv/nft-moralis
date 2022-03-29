@@ -16,7 +16,7 @@ const Marketplace = () => {
 
   return (
     <>
-      <Metadata title='NFT Explorer - Marketplace' />
+      <Metadata title='LUV NFT ESTATE - Marketplace' />
 
       <div className='container mx-auto px-4 py-24 lg:px-0'>
         <div className='relative flex items-baseline justify-between border-b border-gray-200 pt-24 pb-2'>

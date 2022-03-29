@@ -20,7 +20,7 @@ function UserAddress() {
   const account = useRecoilValue(currentUserState)
   return (
     <>
-      <Metadata title={`NFT Explorer - Address ${router.query.userAddress || account}`} />
+      <Metadata title={`LUV NFT ESTATE - Address ${router.query.userAddress || account}`} />
       <div className=' mx-auto min-h-[50rem]  overflow-hidden py-24'>
         <div className='container mx-auto mt-12 flex flex-col items-center'>
           <div className='overflow-hidden rounded-full border-4 border-white'>

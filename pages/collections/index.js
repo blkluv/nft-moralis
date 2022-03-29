@@ -9,7 +9,7 @@ const Collection = () => {
 
   return (
     <div className=''>
-      <Metadata title='NFT Explorer - All Collections' />
+      <Metadata title='LUV NFT ESTATE - All Collections' />
       <div className='container mx-auto grid grid-cols-1 place-items-center gap-10 py-48 text-white md:grid-cols-2   xl:grid-cols-3 2xl:grid-cols-4'>
         {collections.map((el, i) => {
           return (

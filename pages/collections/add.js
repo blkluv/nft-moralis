@@ -63,7 +63,7 @@ const Add = () => {
 
   return (
     <>
-      <Metadata title='NFT Explorer - Add a collection' />
+      <Metadata title='LUV NFT ESTATE - Add a collection' />
       <div className='container mx-auto min-h-[20rem] py-24'>
         <div className='mt-24 flex justify-center'>
           <SectionTitle title='Add a collection' />

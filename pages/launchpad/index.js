@@ -10,7 +10,7 @@ const Launchpad = () => {
 
   return (
     <>
-      <Metadata title='NFT Explorer - Launchpad' />
+      <Metadata title='LUV NFT ESTATE - Launchpad' />
       <div className='container mx-auto px-6 py-24 lg:px-24'>
         <Suspense fallback={<Loading />}>
           <FeaturedSection />
