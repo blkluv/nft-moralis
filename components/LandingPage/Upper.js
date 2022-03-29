@@ -54,7 +54,7 @@ const LandingPage = () => {
               className='my-auto h-3/4 w-1 rounded-lg  bg-gradient-to-t from-emerald-300 to-cyan-500 lg:w-1.5'
             />
             <motion.p variants={slideFromRight} className='mt-2 w-48 text-left text-xs lg:text-base'>
-              Trade on the largest metaverse LUV NFT Marketplace.
+             5️⃣D LUVR virtual estate agents. ✨ Metaverse Monopoly-like game.
             </motion.p>
           </div>
         </div>
