@@ -75,7 +75,7 @@ const Footer = () => {
       <div className='container mx-auto flex justify-between px-32 pt-8 pb-4 text-[rgba(255,255,255,0.5)]'>
         <p>Copyright &copy; 2021</p>
         <a href='http://luvnft.com' target='_blank' rel='noopener noreferrer'>
-          luvnft.com network
+          luvnft.com
         </a>
       </div>
     </div>
