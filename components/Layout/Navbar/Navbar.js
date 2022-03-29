@@ -65,12 +65,12 @@ const Navbar = () => {
                 }}
                 className='bg-primary-800 fixed z-40 flex w-screen flex-col items-start justify-evenly rounded-b-xl  px-5 py-12 text-2xl text-white md:text-3xl'>
                 <Link href='/'>
-                  <button className=' text-tertiary-100 cursor-pointer text-4xl'>NFT Explorer</button>
+                  <button className=' text-tertiary-100 cursor-pointer text-4xl'>LUV NFT ESTATE 🗺</button>
                 </Link>
                 <hr className='border-secondary-200 -ml-6 mb-5 mt-2 w-screen border-2' />
                 <Link href='/'>
                   <button className='hover:text-secondary-400 my-3 flex items-center text-white'>
-                    <AiOutlineHome className='mr-3 ' /> Home
+                    < 🏠 className='mr-3 ' /> HAUS
                   </button>
                 </Link>
                 <Link href='/marketplace'>
