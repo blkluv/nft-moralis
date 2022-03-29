@@ -9,9 +9,9 @@ const Token = () => {
   return (
     <div>
       <Metadata
-        title={`NFT Explorer |  - #${router.query?.tokenId}`}
-        description={`NFT Explorer | NFT Token - - #${router.query?.tokenId}`}
-        url={`https://nft-moralis.vercel.app${router.asPath}`}
+        title={`LUV NFT 📺 |  - #${router.query?.tokenId}`}
+        description={`LUV NFT 📺 | NFT Video - - #${router.query?.tokenId}`}
+        url={`https://video.luvnft.com${router.asPath}`}
       />
       <Suspense fallback={<Loading />}>
         <Main contract={router.query?.contract} tokenId={router.query?.tokenId} />
