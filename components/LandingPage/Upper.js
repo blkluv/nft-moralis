@@ -25,7 +25,7 @@ const LandingPage = () => {
               variants={slideFromLeft}
               transition={{ type: "spring", damping: 15 }}
               className=' mt-2 w-48 text-right text-xs lg:text-base'>
-              Know what you are selling. Know what you are buying.
+              1️⃣ Virtual estate marketplace. 💯% true ownership.
             </motion.p>
             <motion.div
               variants={slideFromLeft}
@@ -37,7 +37,7 @@ const LandingPage = () => {
             variants={slideFromRight}
             transition={{ type: "spring", damping: 15 }}
             className='h1 whitespace-nowrap text-left'>
-            BUY NFTS
+            BUY 🏠
           </motion.h1>
         </div>
         <div className='z-10 mt-5 flex w-full justify-center gap-2 lg:gap-4'>
@@ -45,7 +45,7 @@ const LandingPage = () => {
             variants={slideFromLeft}
             transition={{ type: "spring", damping: 15 }}
             className='h1 whitespace-nowrap text-right'>
-            SELL NFTS
+            SELL 🗺
           </motion.h1>
           <div className='flex gap-2 lg:gap-5'>
             <motion.div
@@ -54,7 +54,7 @@ const LandingPage = () => {
               className='my-auto h-3/4 w-1 rounded-lg  bg-gradient-to-t from-emerald-300 to-cyan-500 lg:w-1.5'
             />
             <motion.p variants={slideFromRight} className='mt-2 w-48 text-left text-xs lg:text-base'>
-              Trade on the largest NFT Marketplace on Ropsten.
+              Trade on the largest metaverse LUV NFT Marketplace.
             </motion.p>
           </div>
         </div>
